@@ -1,12 +1,12 @@
-что купить:
+mida osta:
 
-1. Молоко
-2. Сметана
-3. Скумбрия
-4. Куриные Грудки
-5. Пармезан
-6. Помидоры
-7. Свёкла
-8. Огурцы: 2кг
-9. Пельмени
-10. Соль 1кг
+1. Piim
+2. Hapukoor
+3. Makrell
+4. Kana rinnad
+5. Parmesan
+6. Tomatid
+7. Peet 2kg
+8. Kurgid: 2kg
+9. Pelmeenid
+10. Sool 1kg
