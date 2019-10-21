@@ -1,7 +1,7 @@
-Piim - 0.75ˆ/pakk
-Hapukoor - 0.67ˆ/pakk
-Parmesan - 1.43ˆ
-Tomatid - 0.64ˆ/kg
-Peet - 0.48ˆ/kg
-Kurgid - 1.15ˆ/kg
+ï»¿Piim - 0.75â‚¬/pakk
+Hapukoor - 0.67â‚¬/pakk
+Parmesan - 1.43â‚¬
+Tomatid - 0.64â‚¬/kg
+Peet - 0.48â‚¬/kg
+Kurgid - 1.15â‚¬/kg
 Sool - 0.17/kg
