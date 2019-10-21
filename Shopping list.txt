@@ -2,8 +2,8 @@ mida osta:
 
 1. Piim
 2. Hapukoor
-5. Parmesan
-6. Tomatid
-7. Peet 2kg
-8. Kurgid: 2kg
-10. Sool 1kg
+3. Parmesan
+4. Tomatid
+5. Peet 2kg
+6. Kurgid: 2kg
+7. Sool 1kg
